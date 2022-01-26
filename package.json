@@ -1,0 +1,31 @@
+{
+  "name": "@vengets/generator-ts-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Venkatesh K",
+    "email": "vengets@gmail.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "color-convert": "^2.0.1",
+    "glob": "^7.2.0",
+    "yeoman-generator": "^5.5.2",
+    "yosay": "^2.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/vengets/generator-ts-nodejs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vengets/generator-ts-nodejs.git"
+  }
+}
